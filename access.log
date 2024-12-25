@@ -1,0 +1,4 @@
+::1 - - [25/Dec/2024:14:53:49 +0000] "GET /gendersList HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+::1 - - [25/Dec/2024:14:53:49 +0000] "GET /departmentsList HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+::1 - - [25/Dec/2024:14:53:49 +0000] "GET /countriesList HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+::1 - - [25/Dec/2024:14:53:58 +0000] "GET /employees/Afghanistan/Accounting/Agender?limit=5&order=asc HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
